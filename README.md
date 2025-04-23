@@ -24,7 +24,7 @@ This project implements a spiking network model with one excitatory (E) populati
 ## 📁 Project Structure
 
 ```text
-v1-inhibition-modeling/
+spontaneous-activity-modeling/
 ├── src/
 │   └── baseline.py               # Core spiking network simulation
 ├── data/                         # (Optional) Input or result files
