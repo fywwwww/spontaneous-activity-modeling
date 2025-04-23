@@ -19,16 +19,3 @@ This project implements a spiking network model with one excitatory (E) populati
 - Analysis of spontaneous activity under different inhibitory conditions
 - Exploratory predictions on co-modulation of PV and SST interneurons
 
----
-
-## 📁 Project Structure
-
-```text
-spontaneous-activity-modeling/
-├── src/
-│   └── baseline.py               # Core spiking network simulation
-├── data/                         # (Optional) Input or result files
-├── notebooks/                    # Jupyter notebooks for analysis
-├── tests/                        # Unit tests (recommended)
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project overview
