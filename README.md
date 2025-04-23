@@ -1,4 +1,3 @@
-# spontaneous-activity-modeling
 # 🧠 Modulation of Spontaneous Activity in Developing Sensory Cortices
 
 This repository contains a spiking neural network model that investigates how inhibitory mechanisms modulate spontaneous activity patterns in the developing primary visual cortex (V1) of mouse pups. The project explores the role of distinct interneuron populations—parvalbumin-expressing (PV) and somatostatin-expressing (SST) cells—in shaping spatiotemporal properties of cortical activity during early postnatal development.
